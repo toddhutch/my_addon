@@ -1,0 +1,8 @@
+{
+  "name": "HA Add-on Development",
+  "build": {
+    "dockerfile": "../Dockerfile"
+  },
+  "settings": {},
+  "extensions": []
+}

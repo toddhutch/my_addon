@@ -1,0 +1,14 @@
+{
+  "name": "My Add-on",
+  "version": "1.0",
+  "slug": "my_addon",
+  "description": "An example add-on",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "startup": "services",
+  "boot": "auto",
+  "ports": {
+    "8080/tcp": 8080
+  },
+  "options": {},
+  "schema": {}
+}
